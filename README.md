@@ -1,4 +1,4 @@
-# Hi 👋🏼
+# Welcome
 #### Module for downloading photos and videos from Instagram
 ![Download Instagram](https://petapixel.com/assets/uploads/2018/04/instagramdownloadfeatt.jpg)
 ### How to use
